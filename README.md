@@ -19,6 +19,9 @@ Reboot.
 
 Localizations: en de es fr hi it ko nl pl pt ru uk
 
+## Compatibility
+Andriod 6.0+
+
 ## Links
 * Google Play: https://play.google.com/store/apps/details?id=com.contactwidgethq2
 * Terms of Use and Privacy Policy: http://smallgod.blogspot.com/p/blog-page_14.html
