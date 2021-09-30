@@ -1,5 +1,5 @@
 # Contact HQ
-The "Contact HQ" dialer needs system permissions to record phone calls in Android.
+The "Contact HQ" dialer needs system permissions to record phone calls.
 
 After installation, you can update the application from "Google Play".
 In the app settings, use the "HE AAC" or "AAC" recording mode.
