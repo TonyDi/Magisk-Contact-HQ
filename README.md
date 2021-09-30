@@ -10,6 +10,7 @@ Reboot.
 * Auto redial
 * Blocking phone numbers
 * Backup contacts to .vcf file
+* Call recording (if supported by device)
 * Home screen widget
 * Does not collect personal data (app errors only)
 * No ads (so far)
