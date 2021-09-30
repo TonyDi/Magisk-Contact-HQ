@@ -1,7 +1,7 @@
 # Contact HQ
 The "Contact HQ" dialer needs system permissions to record phone calls.
 
-After installation, you can update the application from "Google Play".
+After module installation, you can update the application from "Google Play".
 In the app settings, use the "HE AAC" or "AAC" recording mode.
 Reboot.
 
@@ -24,9 +24,9 @@ Localizations: en de es fr hi it ko nl pl pt ru uk
 Andriod 6.0+
 
 ## Links
-* Magisk: https://github.com/topjohnwu/Magisk
 * Google Play: https://play.google.com/store/apps/details?id=com.contactwidgethq2
 * Terms of Use and Privacy Policy: http://smallgod.blogspot.com/p/blog-page_14.html
+* Magisk: https://github.com/topjohnwu/Magisk
 * Email: dihton@gmail.com
 
 ## Changelog
