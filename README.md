@@ -28,5 +28,5 @@ Andriod 6.0+
 * Email: dihton@gmail.com
 
 ## Changelog
-### build 105
+### build 107
 * first Magisk release
